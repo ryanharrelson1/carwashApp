@@ -6,7 +6,7 @@ const Services = () => {
       <h1 className="text-2xl font-bold md:text-3xl">Services</h1>
       <div className="grid gap-5 w-full sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
         <section className="bg-primarycolor-card p-5 rounded-xl shadow-md border-2 border-primarycolor-accent">
-          <h1 className="font-bold text-lg mb-2">Exterior Hand Wash</h1>
+          <h1 className="font-bold text-2xl mb-2">Exterior Hand Wash</h1>
           <p>
             A thorough hand wash of the vehicle's exterior, including washing
             the body, windows, and wheels to remove dirt, grime, and road
@@ -18,7 +18,7 @@ const Services = () => {
         </section>
 
         <section className="bg-primarycolor-card p-5 rounded-xl shadow-md border-2 border-primarycolor-accent">
-          <h1 className="font-bold text-lg mb-2">Interior Detailing</h1>
+          <h1 className="font-bold text-2xl mb-2">Interior Detailing</h1>
           <p>
             Deep cleaning of the car's interior, including vacuuming, wiping
             down surfaces, cleaning seats, carpets, and floor mats, as well as
@@ -30,7 +30,7 @@ const Services = () => {
         </section>
 
         <section className="bg-primarycolor-card p-5 rounded-xl shadow-md border-2 border-primarycolor-accent">
-          <h1 className="font-bold text-lg mb-2">Waxing and Polishing</h1>
+          <h1 className="font-bold text-2xl mb-2">Waxing and Polishing</h1>
           <p>
             Application of a protective wax coat to the vehicle’s exterior to
             enhance shine, protect the paint from contaminants, and provide
@@ -42,7 +42,7 @@ const Services = () => {
         </section>
 
         <section className="bg-primarycolor-card p-5 rounded-xl shadow-md border-2 border-primarycolor-accent">
-          <h1 className="font-bold text-lg mb-2">Engine Bay Cleaning</h1>
+          <h1 className="font-bold text-2xl mb-2">Engine Bay Cleaning</h1>
           <p>
             Cleaning the engine compartment, including degreasing and removing
             dirt and grease to improve the engine's appearance and performance.

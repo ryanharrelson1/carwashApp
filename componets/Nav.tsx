@@ -2,16 +2,19 @@ import React from "react";
 
 const nav = () => {
   return (
-    <main className=" flex bg-primarycolor-card rounded-full px-[6px]">
+    <main className=" flex bg-primarycolor-card rounded-full p-1">
       <section className=" text-[14px] hover:bg-primarycolor-accent rounded cursor-pointer">
-        Home/
+        Home
       </section>
+      <div>/</div>
       <section className=" text-[14px] hover:bg-primarycolor-accent rounded cursor-pointer">
-        About/
+        About
       </section>
+      <div>/</div>
       <section className=" text-[14px] hover:bg-primarycolor-accent rounded cursor-pointer">
-        Gallery/
+        Gallery
       </section>
+      <div>/</div>
       <section className=" text-[14px] hover:bg-primarycolor-accent rounded cursor-pointer">
         Contact Us
       </section>
