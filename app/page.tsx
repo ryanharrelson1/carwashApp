@@ -8,7 +8,7 @@ import Footer from "@/componets/Footer";
 
 const Page = () => {
   return (
-    <main className="flex flex-col flex-1 h-screen">
+    <main className="flex flex-col flex-1 h-screen custom-scrollbar ">
       <section className="block md:hidden">
         <Mobilenav />
       </section>
