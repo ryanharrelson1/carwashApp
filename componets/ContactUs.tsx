@@ -45,7 +45,7 @@ const ContactUs = () => {
                 <textarea
                   id="message"
                   name="message"
-                  rows="4"
+                  rows=[4]
                   className="bg-primarycolor-main w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primarycolor"
                   required
                 />
